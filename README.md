@@ -7,10 +7,10 @@ Repository is still under development
 To set up the environment, run the following command:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ayushsvas/flashmu.git
+   git clone https://github.com/ayushsvas/FlashMu.git
    cd FlashMu
    ```
-2. **Micromambda Installation [OPTIONAL]**
+2. **Micromamba Installation [OPTIONAL]**
    ```bash
     chmod +x micromamba_setup.sh
     ./micromamba_setup
