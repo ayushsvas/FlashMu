@@ -1,7 +1,7 @@
 # FLASHµ: Fast Localizing And Sizing of Holographic Microparticles
 
-## NOTE:
-The current directory structure is only temporary. 
+## NOTE
+Repository is still under development
 
 ## Setup
 To set up the environment, run the following command:
