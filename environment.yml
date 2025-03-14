@@ -1,0 +1,22 @@
+channels:
+    - pytorch
+    - nvidia
+    - conda-forge
+name:
+    tryhard
+dependencies:
+    - einops
+    - jupyter
+    - pytorch >=2.0
+    - pytorch-cuda>=11.5
+    - torchvision
+    - tqdm
+    - tensorly
+    - numpy
+    - matplotlib 
+    - wandb
+    - pip
+    - pip:
+        - patchify
+
+    
