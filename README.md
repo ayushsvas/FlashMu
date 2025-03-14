@@ -19,7 +19,7 @@ To set up the environment, run the following command:
    ```bash
    micromamba create -f environment.yml
    ```
-   OR, if you have conda installed use conda inplace of micromamba 
+   OR, if you have conda installed use conda in place of micromamba 
 
 ## Usage
 -- 
