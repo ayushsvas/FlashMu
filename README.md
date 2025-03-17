@@ -18,6 +18,7 @@ To set up the environment, run the following command:
 3. **Get the dependencies**:
    ```bash
    micromamba create -f environment.yml
+   micromamba activate FlashMu
    ```
    OR, if you have conda installed use conda in place of micromamba 
 
