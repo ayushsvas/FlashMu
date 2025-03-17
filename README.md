@@ -32,7 +32,7 @@ To set up the environment, run the following command:
 4. Add information on how to run `Fraunhofer.jl`.
 5. Create a Python version of `Fraunhofer.jl`.
    
-## BIBTEX FOR CITATION
+## BIBTEX 
 ```bibtex
 @misc{paliwal2025flashmufastlocalizingsizing,
       title={FLASH{\mu}: Fast Localizing And Sizing of Holographic Microparticles}, 
