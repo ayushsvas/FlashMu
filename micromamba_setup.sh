@@ -45,4 +45,4 @@ echo "Creating the environment using $ENV_YML_PATH..."
 micromamba create -f "$ENV_YML_PATH"
 
 echo "Installation complete. To activate your environment, run:"
-echo "micromamba activate myenv"
+echo "micromamba activate FlashMu"
