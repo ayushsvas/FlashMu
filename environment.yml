@@ -3,7 +3,7 @@ channels:
     - nvidia
     - conda-forge
 name:
-    tryhard
+    FlashMu
 dependencies:
     - einops
     - jupyter
