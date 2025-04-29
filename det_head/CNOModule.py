@@ -1,4 +1,4 @@
-
+# taken from https://github.com/camlab-ethz/ConvolutionalNeuralOperator
 import torch
 import torch.nn as nn
 
